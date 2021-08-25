@@ -1,0 +1,3 @@
+Lambda Serverless trên AWS Cloud 1
+    Tạo 1 function Lambda, chạy function Lambda và gán quyền cho nó
+    
